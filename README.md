@@ -2,6 +2,4 @@
 
 This is a website
 
-updated locally
-
-editing on update-readme branch
+updates made before rebase
